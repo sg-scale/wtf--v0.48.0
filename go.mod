@@ -10,7 +10,7 @@ require (
 	github.com/VictorAvelar/devto-api-go v1.0.0
 	github.com/adlio/trello v1.12.0
 	github.com/alecthomas/chroma v0.10.0
-	github.com/andygrunwald/go-gerrit v1.1.1
+	github.com/andygrunwald/go-gerrit v1.2.0
 	github.com/briandowns/openweathermap v0.21.1
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/chzyer/readline v1.5.1
@@ -145,7 +145,7 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/gnostic-models v0.7.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
-	github.com/google/go-querystring v1.1.0 // indirect
+	github.com/google/go-querystring v1.2.0 // indirect
 	github.com/google/pprof v0.0.0-20251213031049-b05bdaca462f // indirect
 	github.com/google/s2a-go v0.1.9 // indirect
 	github.com/google/uuid v1.6.0 // indirect
